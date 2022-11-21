@@ -1,0 +1,11 @@
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\bin\Debug\prviKolokvijumS5120.exe.config
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\bin\Debug\prviKolokvijumS5120.exe
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\bin\Debug\prviKolokvijumS5120.pdb
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.AssemblyReference.cache
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.SuggestedBindingRedirects.cache
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.Form1.resources
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.Properties.Resources.resources
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.GenerateResource.cache
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.CoreCompileInputs.cache
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.exe
+D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.pdb
