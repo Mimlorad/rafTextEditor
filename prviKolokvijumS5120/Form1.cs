@@ -44,7 +44,7 @@ namespace prviKolokvijumS5120
             }
             catch
             {
-                MessageBox.Show("Greska u otvaranju dijaloga!");
+                MessageBox.Show("Greska u otvaranju fajla!");
             }
         }
 
@@ -123,6 +123,7 @@ namespace prviKolokvijumS5120
             if (String.IsNullOrEmpty(tbPronadji.Text))
             {
                 MessageBox.Show("Niste uneli tekst za pretragu!");
+                tbPronadji.Focus();
                 return;
             }
 

@@ -9,3 +9,14 @@ D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prvi
 D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.CoreCompileInputs.cache
 D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.exe
 D:\Faks\raf\III godina\c#\prviKolokvijumS5120\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.pdb
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\bin\Debug\prviKolokvijumS5120.exe.config
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\bin\Debug\prviKolokvijumS5120.exe
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\bin\Debug\prviKolokvijumS5120.pdb
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.AssemblyReference.cache
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.Form1.resources
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.Properties.Resources.resources
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.GenerateResource.cache
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.csproj.CoreCompileInputs.cache
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.exe
+C:\Users\mmilic5120s\Source\Repos\Mimlorad\rafTextEditor\prviKolokvijumS5120\obj\Debug\prviKolokvijumS5120.pdb
